@@ -1341,7 +1341,7 @@ a:hover {
 .blog-wrapper .blockquote {
   border-left: 4px solid #0078ff;
   padding: 18px;
-  font-style: italic;
+  font-style: times new roman;
 }
 
 /*------/ Comments /------*/
@@ -1381,7 +1381,7 @@ a:hover {
 
 .box-comments .list-comments span {
   color: #1e1e1e;
-  font-style: italic;
+  font-style: times new roman;
 }
 
 .box-comments .comment-children {
